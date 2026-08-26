@@ -3,10 +3,20 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Stargazers log</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <h1>Stargazers log</h1>
     <p>A log of the repositories I've starred.</p>
+
+    <section class="starred">
+      <h2>Starred repositories</h2>
+      <ul id="starred-list" class="star-list" aria-live="polite"></ul>
+      <div id="empty" class="empty" hidden>No starred repositories found.</div>
+    </section>
+
+    <script src="script.js" defer></script>
   </body>
 </html>
