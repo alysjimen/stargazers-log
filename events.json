@@ -1,0 +1,41 @@
+[
+  {
+    "name": "awesome-tool",
+    "full_name": "octocat/awesome-tool",
+    "html_url": "https://github.com/octocat/awesome-tool",
+    "description": "An awesome tool for doing awesome things.",
+    "owner": {
+      "login": "octocat",
+      "avatar_url": "https://github.com/images/error/octocat_happy.gif"
+    },
+    "stargazers_count": 512,
+    "language": "JavaScript",
+    "starred_at": "2026-08-24T15:20:00Z"
+  },
+  {
+    "name": "neat-lib",
+    "full_name": "devs/neat-lib",
+    "html_url": "https://github.com/devs/neat-lib",
+    "description": "A neat library for parsing data.",
+    "owner": {
+      "login": "devs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=4"
+    },
+    "stargazers_count": 1280,
+    "language": "Python",
+    "starred_at": "2026-06-10T09:00:00Z"
+  },
+  {
+    "name": "cli-helper",
+    "full_name": "tools/cli-helper",
+    "html_url": "https://github.com/tools/cli-helper",
+    "description": "Tiny CLI helpers to speed up workflows.",
+    "owner": {
+      "login": "tools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123456?v=4"
+    },
+    "stargazers_count": 76,
+    "language": "Go",
+    "starred_at": "2025-12-01T18:45:00Z"
+  }
+]
